@@ -1,0 +1,4 @@
+C:\Users\allan\Desktop\Learning\DIO\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csprojAssemblyReference.cache
+C:\Users\allan\Desktop\Learning\DIO\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\Learning\DIO\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfo.cs
+C:\Users\allan\Desktop\Learning\DIO\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.CoreCompileInputs.cache
